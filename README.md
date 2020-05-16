@@ -1,4 +1,4 @@
-# Heat_Equation
+# Heat Equation
 Activities in scientific computing lab - Heat equation
 
 ## 1. Explicit - Forward Difference
