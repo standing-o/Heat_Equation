@@ -9,7 +9,7 @@
 ## 2. Implicit - Backward Difference
 - alpha <= inf
 - Calculate 'Nx^2' times -> O(N^2)
-- First order accuracy in time, second order accuracy in space i.e o(dt)
+- First order accuracy in time, second order accuracy in space i.e o(dt)  
 
 ## 3. Crank - Nicolson (theta-method)
 - alpha <= inf
