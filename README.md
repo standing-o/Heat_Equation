@@ -1,5 +1,6 @@
-# Heat Equation (20191203 ~)
+# Heat Equation
 - Activities in scientific computing lab - Heat equation 
+- Dec. 3, 2019
 
 ## 1. Explicit - Forward Difference
 - alpha = dt/h^2 <= 0.5
