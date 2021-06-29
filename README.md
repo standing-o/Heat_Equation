@@ -1,5 +1,6 @@
 # Heat Equation
-- Activities in scientific computing lab - Heat equation 
+- Fundamental numerical methods solving heat equations
+- Activities in scientific computing lab
 - Dec. 3, 2019
 
 ## 1. Explicit - Forward Difference
